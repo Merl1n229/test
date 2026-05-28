@@ -1,0 +1,11 @@
+Model Information:
+* title:	Swamp Creature
+* source:	https://sketchfab.com/3d-models/swamp-creature-ac86acea72a34462a83aa8a380f663f2
+* author:	modelicus (https://sketchfab.com/modelicus)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Swamp Creature" (https://sketchfab.com/3d-models/swamp-creature-ac86acea72a34462a83aa8a380f663f2) by modelicus (https://sketchfab.com/modelicus) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
